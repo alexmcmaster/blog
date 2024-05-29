@@ -1,1 +1,4 @@
 theme: minima
+title: "Alex McMaster's blog"
+baseurl: "/blog"
+url: "https://alexmcmaster.github.io"

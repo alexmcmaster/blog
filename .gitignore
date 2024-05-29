@@ -36,5 +36,14 @@
 ehthumbs.db
 Thumbs.db
 
+# Vim swap files
+.*.swp
+.*.swo
+
 # jupyter notebook checkpoints
-_code/.ipynb_checkpoints/
+code/.ipynb_checkpoints/
+code/*/.ipynb_checkpoints/
+
+# Preview artifacts
+.sass-cache/
+_site/

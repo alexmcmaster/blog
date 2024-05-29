@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
+layout: default
 ---
 
-This is the landing page of my blog.
+Welcome to my blog.
