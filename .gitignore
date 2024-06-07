@@ -40,6 +40,9 @@ Thumbs.db
 .*.swp
 .*.swo
 
+# Ghostwriter backups
+*.backup
+
 # jupyter notebook checkpoints
 code/.ipynb_checkpoints/
 code/*/.ipynb_checkpoints/
